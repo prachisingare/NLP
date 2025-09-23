@@ -52,7 +52,7 @@ Optionally, download the MP3 audio file
 
 📷 Demo Screenshot
 
-[Listen to the demo](C:\Users\Prachi\Documents\VS Code Files\NLP\LANGUAGE TRANSLATION APP\lang.mp3)
+[Listen to the demo](\lang.mp3)
 
 🔮 Future Improvements
 
@@ -66,6 +66,6 @@ Enhance UI with modern themes
 
 Prachi Singare
 
-💼 LinkedIn (https://www.linkedin.com/in/prachi-singare13/)
+💼[LinkedIn](https://www.linkedin.com/in/prachi-singare13/)
 
 📧 singareprachi777@gmail.com
