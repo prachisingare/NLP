@@ -32,14 +32,6 @@ gTTS (Google Text-to-Speech)
 
 Pandas (for language dataset handling)
 
-# 📂 Project Structure
-'''
-📦 language-translation-app
- ┣ 📜 lang_translation.py   # Main Streamlit app
- ┣ 📜 language.csv          # Dataset of languages & ISO codes
- ┗ 📜 README.md             # Project documentation
- '''
-
 # 📊 Usage
 
 Enter text into the input box
