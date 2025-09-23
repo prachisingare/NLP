@@ -33,10 +33,12 @@ gTTS (Google Text-to-Speech)
 Pandas (for language dataset handling)
 
 # 📂 Project Structure
+'''
 📦 language-translation-app
  ┣ 📜 lang_translation.py   # Main Streamlit app
  ┣ 📜 language.csv          # Dataset of languages & ISO codes
  ┗ 📜 README.md             # Project documentation
+ '''
 
 # 📊 Usage
 
@@ -50,11 +52,7 @@ If speech is supported → listen to the translation
 
 Optionally, download the MP3 audio file
 
-📷 Demo Screenshot
-
-[Listen to the demo](\lang.mp3)
-
-🔮 Future Improvements
+# 🔮 Future Improvements
 
 Add support for document translation (PDF/TXT)
 
