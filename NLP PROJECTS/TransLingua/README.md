@@ -52,7 +52,7 @@ Optionally, download the MP3 audio file
 
 📷 Demo Screenshot
 
-[Listen to the demo](C:\Users\Prachi\Documents\VS Code Files\NLP\LANGUAGE TRANSLATION APP\lang.mp3)
+[C:\Users\Prachi\Documents\VS Code Files\NLP\LANGUAGE TRANSLATION APP\lang.mp3]
 
 🔮 Future Improvements
 
